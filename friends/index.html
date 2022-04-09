@@ -4,7 +4,7 @@
   <!-- 元数据 -->
   <meta charset="utf-8">
   <link rel="icon" href="">
-  <title>Misakaみこと</title>
+  <title>友人帐 | Misakaみこと</title>
   <meta name="author" content="Misaka" />
   <meta http-equiv="Cache-Control" content="no-transform" />
   <meta http-equiv="Cache-Control" content="no-siteapp" />
@@ -15,10 +15,12 @@
   
     <meta name="keywords" content="" />
   
-  <meta property="og:type" content="website">
-<meta property="og:title" content="Misakaみこと">
-<meta property="og:url" content="https://misaka-2020.github.io/tags/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5/index.html">
+  <meta name="description" content="好伙伴们在哪里~">
+<meta property="og:type" content="website">
+<meta property="og:title" content="友人帐">
+<meta property="og:url" content="https://misaka-2020.github.io/friends/index.html">
 <meta property="og:site_name" content="Misakaみこと">
+<meta property="og:description" content="好伙伴们在哪里~">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://misaka-2020.github.io/null">
 <meta property="article:author" content="Misaka">
@@ -228,103 +230,38 @@
 
         
 
-            <!-- Breadcrumb for tag & category page -->
+            <article>
+    <div class="kratos-hentry kratos-post-inner clearfix">
+        <div class="kratos-post-content">
+            <h2 class="title-h2 text-center">友人帐</h2>
+            <div class="linkpage">
+    <ul id="friendsList"></ul>
+</div>
 
-    <article class="kratos-hentry kratos-entry-border-new clearfix">
-        <div class="kratos-breadcrumb">
-            <a href="/">
-                <i class="fa fa-home"></i>
-            </a>
-            <i class="fa fa-angle-right"></i>
-            
-                <a href="/tags/">
-                    标签
-                </a>
-                <i class="fa fa-angle-right"></i>
-                <a href="/tags/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5">
-                    建站纪念
-                </a>
-            
-            
+<script type="text/javascript">
+{
+    const flist = [{"name":"猫猫①号","link":"https://candinya.com","avatar":"../images/avatar.webp","bio":"喵~"},{"name":"猫猫②号","link":"https://candinya.com","avatar":"../images/avatar.webp","bio":"喵喵~"},{"name":"猫猫⑨号","link":"https://candinya.com","avatar":"../images/avatar.webp","bio":"咪啪~"}];
+    let friendNodes = '';
+    while (flist.length > 0) {
+        const rndNum = Math.floor(Math.random()*flist.length);
+        friendNodes += `<li><a target="_blank" href="${flist[rndNum].link}"><img src="${flist[rndNum].avatar}" onerror="this.src='/images/avatar.webp'"><h4>${flist[rndNum].name}</h4><p>${flist[rndNum].bio}</p></a></li>`;
+        flist.splice(rndNum, 1);
+    }
+    document.getElementById("friendsList").innerHTML = friendNodes;
+}
+</script>
         </div>
-    </article>
-
-
-
-    
-    
-        <article class="kratos-hentry clearfix">
-            <div class="kratos-entry-border-new clearfix">
-                
-                <div class="kratos-entry-thumb-new">
-                    <a href="/2022/04/08/First_Blog/">
-                        
-                            <img class="kratos-entry-thumb-new-img">
-                        
-                    </a>
+        <footer class="kratos-entry-footer clearfix">
+            <div class="footer-tag clearfix">
+                <div class="pull-date">
+                <span>最后编辑：2022-04-09</span>
                 </div>
-                <div class="kratos-post-inner-new">
-                    <header class="kratos-entry-header-new">
-                            
-                        <h2 class="kratos-entry-title-new"><a href="/2022/04/08/First_Blog/">Hello World！</a>
-                    </header>
-                    <div class="kratos-entry-content-new">
-                        <p>
-                            
-                                First Blog 🎉🎉🎉2022年4月8日 星期五
-早就想过建个 Blog ,今天终于实现了
-刚好多用用 Markdown ，用熟了应该会很方便 各种意义上
-
-希望能有时间打理打理门面
-
-
-记录生活 分享学习 陶冶情操
-
-
-...
-                            
-                        </p>
-                    </div>
-                </div>
-                <footer class="kratos-post-meta-new">
-                    <span class="pull-left">
-                        <a>
-                            <i class="fa fa-calendar"></i>
-                            2022-04-08
-                        </a>
-                        <a>
-                            
-                                <i class="fa fa-tags"></i>
-                                <a class="tag-none-link" href="/tags/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5/" rel="tag">建站纪念</a>
-                            
-                        </a>
-                        
-                            <!-- 当前仅支持valine/waline自带的统计功能 -->
-                            
-                        
-                        
-                            <!-- 当前仅支持waline自带的统计功能 -->
-                            
-                        
-                    </span>
-                    <span class="pull-right">
-                        <a class="read-more" href="/2022/04/08/First_Blog/" title="阅读全文">阅读全文<i class="fa fa-chevron-circle-right"></i></a>
-                    </span>
-                </footer>
             </div>
-        </article>
-    
-
-
-
-
-
-    <div class="hidden">
-        <!-- 加载文章阅读对应的统计功能，评论自带的那种 -->
-        
+        </footer>
     </div>
-
-
+    
+    
+</article>
 
         
 

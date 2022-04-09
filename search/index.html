@@ -17,7 +17,7 @@
   
   <meta property="og:type" content="website">
 <meta property="og:title" content="Misakaみこと">
-<meta property="og:url" content="https://misaka-2020.github.io/tags/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5/index.html">
+<meta property="og:url" content="https://misaka-2020.github.io/search/index.html">
 <meta property="og:site_name" content="Misakaみこと">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://misaka-2020.github.io/null">
@@ -228,103 +228,34 @@
 
         
 
-            <!-- Breadcrumb for tag & category page -->
-
-    <article class="kratos-hentry kratos-entry-border-new clearfix">
-        <div class="kratos-breadcrumb">
-            <a href="/">
-                <i class="fa fa-home"></i>
-            </a>
-            <i class="fa fa-angle-right"></i>
-            
-                <a href="/tags/">
-                    标签
-                </a>
-                <i class="fa fa-angle-right"></i>
-                <a href="/tags/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5">
-                    建站纪念
-                </a>
-            
-            
-        </div>
-    </article>
-
-
-
-    
-    
-        <article class="kratos-hentry clearfix">
-            <div class="kratos-entry-border-new clearfix">
-                
-                <div class="kratos-entry-thumb-new">
-                    <a href="/2022/04/08/First_Blog/">
-                        
-                            <img class="kratos-entry-thumb-new-img">
-                        
-                    </a>
-                </div>
-                <div class="kratos-post-inner-new">
-                    <header class="kratos-entry-header-new">
-                            
-                        <h2 class="kratos-entry-title-new"><a href="/2022/04/08/First_Blog/">Hello World！</a>
-                    </header>
-                    <div class="kratos-entry-content-new">
-                        <p>
-                            
-                                First Blog 🎉🎉🎉2022年4月8日 星期五
-早就想过建个 Blog ,今天终于实现了
-刚好多用用 Markdown ，用熟了应该会很方便 各种意义上
-
-希望能有时间打理打理门面
-
-
-记录生活 分享学习 陶冶情操
-
-
-...
-                            
-                        </p>
-                    </div>
-                </div>
-                <footer class="kratos-post-meta-new">
-                    <span class="pull-left">
-                        <a>
-                            <i class="fa fa-calendar"></i>
-                            2022-04-08
-                        </a>
-                        <a>
-                            
-                                <i class="fa fa-tags"></i>
-                                <a class="tag-none-link" href="/tags/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5/" rel="tag">建站纪念</a>
-                            
-                        </a>
-                        
-                            <!-- 当前仅支持valine/waline自带的统计功能 -->
-                            
-                        
-                        
-                            <!-- 当前仅支持waline自带的统计功能 -->
-                            
-                        
-                    </span>
-                    <span class="pull-right">
-                        <a class="read-more" href="/2022/04/08/First_Blog/" title="阅读全文">阅读全文<i class="fa fa-chevron-circle-right"></i></a>
-                    </span>
-                </footer>
-            </div>
-        </article>
-    
-
-
-
-
-
-    <div class="hidden">
-        <!-- 加载文章阅读对应的统计功能，评论自带的那种 -->
-        
+            <div class="kratos-hentry kratos-post-inner clearfix">
+    <div class="kratos-post-content">
+        <h2 class="title-h2 text-center">搜索</h2>
+        <form class="input-group" onsubmit="return inpSearch();">
+            <input class="form-input input-lg" id="search-input" maxlength="80" name="s" placeholder="有什么想找找看的呢o(*￣▽￣*)ブ" required type="search">
+            <button class="btn btn-primary" type="submit">找一找~</button>
+        </form>
     </div>
+</div>
 
+<div class="alert alert-info" id="kr-search-notice">
+    这里是 Misakaみこと 的搜索引擎~
+</div>
 
+<div id="result-posts">
+    <div class="kratos-hentry kratos-post-inner clearfix">
+        <div class="kratos-post-content">
+            <p>搜索多个关键词时请用空格分割，例如「建站纪念」这样；</p>
+            <p>您也可以使用这些标签碰碰运气哦~</p>
+            <p class="search-demo-tags">
+                <a href="/tags/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5/" style="font-size: 18px; color: #b2b7be">建站纪念</a>
+            </p>
+        </div>
+    </div>
+</div>
+
+<script>var searchDataFile = "/search.json";</script>
+<script defer src="/js/local-search.min.js"></script>
 
         
 
