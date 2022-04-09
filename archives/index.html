@@ -42,6 +42,8 @@
   <link rel="stylesheet" id="nprogress-css" href="https://unpkg.com/nprogress@0.2.0/nprogress.css" type="text/css" media="all">
   
   
+    <link rel="stylesheet" href="https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.css">
+  
   
     <link rel="stylesheet" href="https://unpkg.com/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
   
@@ -56,10 +58,14 @@
   
   <style>
     
+      .kratos-cover.kratos-cover-2 {
+        background-image: url('/images/banner.webp');
+      }
+    
     
       @media(min-width:768px) {
         body.custom-background {
-          background-image: url('https://cdn.jsdelivr.net/gh/Misaka-2020/Misaka_PicGo/Blog_Image/IMG_0347.JPG');
+          background-image: url('/images/bg.webp');
         }
       }
     
@@ -83,11 +89,11 @@
                                     
                                 
                                     
-                                        <li><a href="/archives/"><i class="fa fa-file"></i>归档</a></li>
+                                        <li><a href="/archives/"><i class="fa fa-file"></i>档案馆</a></li>
                                     
                                 
                                     
-                                        <li><a href="/friends/"><i class="fa fa-paw"></i>友人帐</a></li>
+                                        <li><a href="/friends/"><i class="fa fa-paw"></i>好伙伴</a></li>
                                     
                                 
                                     
@@ -98,11 +104,11 @@
                                                     
                                                 
                                                     
-                                                        <li><a target="_blank" rel="noopener" href="https://github.com/Misaka-2020">作者</a></li>
+                                                        <li><a target="_blank" rel="noopener" href="https://candinya.com">作者博客</a></li>
                                                     
                                                 
                                                     
-                                                        <li><a target="_blank" rel="noopener" href="https://github.com/Misaka-2020/Misaka-2020.github.io">Blog</a></li>
+                                                        <li><a target="_blank" rel="noopener" href="https://github.com/Candinya/Kratos-Rebirth">项目链接</a></li>
                                                     
                                                 
                                             </ul>
@@ -140,85 +146,6 @@
         <div id="kratos-blog-post">
             <div class="container">
                 <div id="main" class="row">
-                    
-                        
-
-<section id="kratos-widget-area" class="col-md-4 hidden-xs hidden-sm">
-    <!-- 文章和页面根据splitter来分割，没有的话就从头开始设置为sticky -->
-    
-        <div class="sticky-area">
-    
-    
-                <aside id="krw-about" class="widget widget-kratos-about clearfix">
-    <div class="photo-background"></div>
-    <div class="photo-wrapper clearfix">
-        <div class="photo-wrapper-tip text-center">
-            <img class="about-photo" src="/images/avatar.webp" />
-        </div>
-    </div>
-    <div class="textwidget">
-        <p class="text-center"></p>
-    </div>
-    <div class="site-meta">
-        <a class="meta-item" href="/archives/">
-            <span class="title">
-                文章
-            </span>
-            <span class="count">
-                1
-            </span>
-        </a>
-        <a class="meta-item" href="/categories/">
-            <span class="title">
-                分类
-            </span>
-            <span class="count">
-                0
-            </span>
-        </a>
-        <a class="meta-item" href="/tags/">
-            <span class="title">
-                标签
-            </span>
-            <span class="count">
-                1
-            </span>
-        </a>
-    </div>
-</aside>
-            
-                
-
-            
-                
-  <aside id="krw-tags" class="widget widget-kratos-tags clearfix">
-    <h4 class="widget-title"><i class="fa fa-tags"></i>标签聚合</h4>
-      <div class="tag-clouds">
-        <a href="/tags/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5/" style="font-size: 0.6em;">建站纪念</a>
-      </div>
-  </aside>
-
-            
-                
-  <aside id="krw-posts" class="widget widget-kratos-posts">
-  <h4 class="widget-title"><i class="fa fa-file"></i>最新文章</h4>
-  <div class="tab-content">
-      <ul class="list-group">
-        
-        
-          
-          
-            <a class="list-group-item" href="/2022/04/08/First_Blog/"><i class="fa  fa-book"></i> Hello World！</a>
-            
-          
-        
-      </ul>
-  </div>
-  </aside>
-
-            
-    </div>
-</section>
                     
 
         
@@ -307,29 +234,108 @@
         
 
                 
+            
+
+<section id="kratos-widget-area" class="col-md-4 hidden-xs hidden-sm">
+    <!-- 文章和页面根据splitter来分割，没有的话就从头开始设置为sticky -->
+    
+        <div class="sticky-area">
+    
+    
+                <aside id="krw-about" class="widget widget-kratos-about clearfix">
+    <div class="photo-background"></div>
+    <div class="photo-wrapper clearfix">
+        <div class="photo-wrapper-tip text-center">
+            <img class="about-photo" src="/images/avatar.webp" />
+        </div>
+    </div>
+    <div class="textwidget">
+        <p class="text-center"></p>
+    </div>
+    <div class="site-meta">
+        <a class="meta-item" href="/archives/">
+            <span class="title">
+                文章
+            </span>
+            <span class="count">
+                1
+            </span>
+        </a>
+        <a class="meta-item" href="/categories/">
+            <span class="title">
+                分类
+            </span>
+            <span class="count">
+                0
+            </span>
+        </a>
+        <a class="meta-item" href="/tags/">
+            <span class="title">
+                标签
+            </span>
+            <span class="count">
+                1
+            </span>
+        </a>
+    </div>
+</aside>
+            
+                
+
+            
+                
+  <aside id="krw-tags" class="widget widget-kratos-tags clearfix">
+    <h4 class="widget-title"><i class="fa fa-tags"></i>标签聚合</h4>
+      <div class="tag-clouds">
+        <a href="/tags/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5/" style="font-size: 0.6em;">建站纪念</a>
+      </div>
+  </aside>
+
+            
+                
+  <aside id="krw-posts" class="widget widget-kratos-posts">
+  <h4 class="widget-title"><i class="fa fa-file"></i>最新文章</h4>
+  <div class="tab-content">
+      <ul class="list-group">
+        
+        
+          
+          
+            <a class="list-group-item" href="/2022/04/08/First_Blog/"><i class="fa  fa-book"></i> Hello World！</a>
+            
+          
+        
+      </ul>
+  </div>
+  </aside>
+
+            
+    </div>
+</section>
+        
         </div>
     </div>
 </div>
 <footer>
-    <div id="footer"  >
+    <div id="footer"  class="ap-lrc"  >
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-md-offset-3 footer-list text-center">
                     <ul class="kratos-social-icons">
                         
                         
-                        <li><a target="_blank" rel="nofollow" href="https://t.me/LoveMisaka"><i class="fa fa-telegram"></i></a></li>
+                        <li><a target="_blank" rel="nofollow" href="https://t.me/CandyUnion"><i class="fa fa-telegram"></i></a></li>
                         
                         
                         
-                        
-                        <li><a target="_blank" rel="nofollow" href="https://github.com/Misaka-2020"><i class="fa fa-github"></i></a></li>
+                        <li><a target="_blank" rel="me" href="https://nya.one/@Candinya"><i class="fa fa fa-share-alt-square"></i></a></li>
+                        <li><a target="_blank" rel="nofollow" href="https://github.com/Candinya"><i class="fa fa-github"></i></a></li>
                         
                     </ul>
                     <ul class="kratos-copyright">
                         <div>
                             <li>&copy; 2022 Misakaみこと 版权所有.</li>
-                            <li>本喵已睡<span id="span_dt">Loading...</span></li>
+                            <li>本站已运行<span id="span_dt">Loading...</span></li>
                         </div>
                         <div>
                             <li>Theme <a href="https://github.com/Candinya/Kratos-Rebirth" target="_blank">Kratos:Rebirth</a></li>
@@ -385,6 +391,19 @@
 
     <script async src="/js/candy.min.js"></script>
 
+
+
+    <script defer src="https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.js"></script>
+    
+    <script defer src="https://unpkg.com/meting@2/dist/Meting.min.js"></script>
+    <meting-js
+        server="netease"
+        type="playlist"
+        id="3204190542"
+        order="random"
+        fixed="true"
+    >
+    </meting-js>
 
 
 
