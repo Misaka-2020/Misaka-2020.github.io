@@ -17,7 +17,7 @@
   
   <meta property="og:type" content="website">
 <meta property="og:title" content="Misakaみこと">
-<meta property="og:url" content="https://misaka-2020.github.io/archives/2022/04/index.html">
+<meta property="og:url" content="https://misaka-2020.github.io/search/index.html">
 <meta property="og:site_name" content="Misakaみこと">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://cdn.jsdelivr.net/gh/Misaka-2020/Misaka_PicGo/Blog_Image/96248319_p0-TX.jpg">
@@ -151,78 +151,34 @@
 
         
 
-            
-<style>
-  .post-meta time{color:#00a7e0}
-  @media (max-width:767px){.posts-collapse{margin:0 20px}
-  .posts-collapse .post-meta,
-  .posts-collapse .post-title{display:block;width:auto;text-align:left}}
-  .posts-collapse{position:relative}
-  .posts-collapse::after{content:" ";position:absolute;top:20px;left:0;margin-left:-2px;width:4px;height:calc(100% - 35px);background:#f5f5f5;z-index:-1}
-  @media (max-width:991px){.posts-collapse{margin:0 20px}}
-  .posts-collapse .collection-title{position:relative}
-  .posts-collapse .collection-title h1,
-  .posts-collapse .collection-title h2{margin-left:20px}
-  .posts-collapse .collection-title small{color:#bbb;margin-left:5px}
-  .posts-collapse .collection-title::before{content:" ";position:absolute;left:0;top:50%;margin-left:-4px;margin-top:-4px;width:8px;height:8px;background:#bbb;border-radius:50%}
-  .posts-collapse .post-header{position:relative;transition-duration:.2s;transition-timing-function:ease-in-out;transition-delay:0s;transition-property:border}
-  .posts-collapse .post-header::before{content:" ";position:absolute;left:0;top:12px;width:6px;height:6px;margin-left:-4px;background:#bbb;border-radius:50%;border:1px solid #fff;transition: all .3s ease-in-out}
-  .posts-collapse .post-header:hover{border-bottom-color:#666}
-  .posts-collapse .post-header:hover::before{background:#222}
-  .posts-collapse .post-meta{position:absolute;font-size:12px;left:20px;top:5px}
-  .posts-collapse .post-comments-count{display:none}
-  .posts-collapse .post-title{margin-left:70px;font-size:16px;font-weight:400;line-height:inherit}
-  .posts-collapse .post-title::after{margin-left:3px;opacity:.6}
-  .posts-collapse .post-title a{color:#666;border-bottom:none}
-</style>
+            <div class="kratos-hentry kratos-post-inner clearfix">
+    <div class="kratos-post-content">
+        <h2 class="title-h2 text-center">搜索</h2>
+        <form class="input-group" onsubmit="return inpSearch();">
+            <input class="form-input input-lg" id="search-input" maxlength="80" name="s" placeholder="有什么想找找看的呢o(*￣▽￣*)ブ" required type="search">
+            <button class="btn btn-primary" type="submit">找一找~</button>
+        </form>
+    </div>
+</div>
 
-  <article>
-      <div class="kratos-hentry kratos-post-inner clearfix">
-          <div class="kratos-post-content">
-            <h2 class="title-h2 text-center">文章归档</h2>
-            <div id="archives">
-              <div class="post-block archive post" style="margin-left: 2em;">
-                <h3 class="archive-page-counter">当前共有 1 篇文章 (゜-゜)つロ 干杯~</h3>
-                <div class="posts-collapse">
-                  
-                  
-                    
-                    
-                      <!-- 没遇到Title的会被自动忽略年份，即使并不一致 -->
-                      
-                      <div class="collection-title">
-                        <a href="/archives/2022/"><h2 class="archive-year">2022</h2></a>
-                      </div>
-                    
-                    
-                      <article class="post" itemscope>
-                        <header class="post-header">
-                          <h3 class="post-title">
-                            
-                                <a class="post-title-link" href="/2022/04/08/First_Blog/" itemprop="url">
-                                  <span itemprop="name">Hello World！</span>
-                                </a>
-                            
-                          </h3>
-                          <div class="post-meta">
-                            <time class="post-time" itemprop="dateCreated"
-                                  datetime="2022-04-08T00:00:00+08:00"
-                                  content="2022-04-08" >
-                              04-08
-                            </time>
-                          </div>
-                        </header>
-                      </article>
-                    
-                  
-                </div>
-              </div>
-            </div>
+<div class="alert alert-info" id="kr-search-notice">
+    这里是 Misakaみこと 的搜索引擎~
+</div>
+
+<div id="result-posts">
+    <div class="kratos-hentry kratos-post-inner clearfix">
+        <div class="kratos-post-content">
+            <p>搜索多个关键词时请用空格分割，例如「建站纪念」这样；</p>
+            <p>您也可以使用这些标签碰碰运气哦~</p>
+            <p class="search-demo-tags">
+                <a href="/tags/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5/" style="font-size: 18px; color: #b2b7be">建站纪念</a>
+            </p>
         </div>
-      </div>
-      
-  </article>
+    </div>
+</div>
 
+<script>var searchDataFile = "/search.json";</script>
+<script defer src="/js/local-search.min.js"></script>
 
         
 
