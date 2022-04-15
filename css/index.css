@@ -3293,7 +3293,7 @@ h1.page-title + .tag-cloud-list {
   position: absolute;
   width: 100%;
   height: 50%;
-  background-color: rgba(0,0,0,0.1);
+  background-color: rgba(0,0,0,0.5);
   content: '';
 }
 #footer-wrap {
@@ -3409,12 +3409,12 @@ h1.page-title + .tag-cloud-list {
 }
 @media screen and (max-width: 768px) {
   #page-header.not-home-page {
-    height: 280px;
+    height: 250px;
   }
 }
 #page-header #page-site-info {
   position: absolute;
-  top: 200px;
+  top: 100px;
   padding: 0 10px;
   width: 100%;
 }
@@ -3428,7 +3428,7 @@ h1.page-title + .tag-cloud-list {
 }
 @media screen and (max-width: 768px) {
   #page-header.post-bg {
-    height: 360px;
+    height: 250px;
   }
 }
 #page-header.post-bg:before {
