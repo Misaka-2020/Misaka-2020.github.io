@@ -1338,8 +1338,8 @@ canvas:not(#ribbon-canvas),
   --global-font-size: 14px;
   --global-bg: #fff;
   --font-color: #4c4948;
-  --hr-border: #d2ebfd;
-  --hr-before-color: #bfe4fb;
+  --hr-border: #c2e0b2;
+  --hr-before-color: #aad494;
   --search-bg: #f6f8fa;
   --search-input-color: #4c4948;
   --search-result-title: #4c4948;
@@ -1352,7 +1352,7 @@ canvas:not(#ribbon-canvas),
   --tab-button-active-bg: rgba(255,255,255,0.8);
   --card-bg: rgba(255,255,255,0.8);
   --sidebar-bg: #f6f8fa;
-  --btn-hover-color: #ff7242;
+  --btn-hover-color: #f4a7b9;
   --btn-color: #fff;
   --btn-bg: #b5caa0;
   --text-bg-hover: rgba(181,202,160,0.7);
@@ -1361,14 +1361,14 @@ canvas:not(#ribbon-canvas),
   --white: rgba(255,255,255,0.8);
   --text-highlight-color: #1f2d3d;
   --blockquote-color: #6a737d;
-  --blockquote-bg: rgba(73,177,245,0.1);
+  --blockquote-bg: rgba(177,180,121,0.1);
   --reward-pop: #f5f5f5;
   --toc-link-color: #666261;
   --card-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.05);
   --card-hover-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.09);
-  --pseudo-hover: #ff7242;
+  --pseudo-hover: #f4a7b9;
   --headline-presudo: #a0a0a0;
-  --scrollbar-color: #49b1f5;
+  --scrollbar-color: #b1b479;
 }
 body {
   position: relative;
@@ -1479,7 +1479,7 @@ table td {
   vertical-align: middle;
 }
 *::selection {
-  background: #00c4b6;
+  background: #a8d8b9;
   color: #f7f7f7;
 }
 button {
@@ -1535,7 +1535,7 @@ img:not([src]) {
 blockquote {
   margin: 0 0 20px;
   padding: 12px 15px;
-  border-left: 3px solid #49b1f5;
+  border-left: 3px solid #b1b479;
   background-color: var(--blockquote-bg);
   color: var(--blockquote-color);
 }
@@ -1675,7 +1675,7 @@ figure.highlight pre .javascript .function {
 #article-container code {
   padding: 2px 4px;
   background: rgba(27,31,35,0.05);
-  color: #f47466;
+  color: #fedfe1;
 }
 #article-container pre {
   padding: 10px 20px;
@@ -2939,7 +2939,7 @@ h1.page-title + .tag-cloud-list {
   color: #b5caa0;
 }
 #aside-content #card-toc .toc-content .toc-link.active {
-  background: #00c4b6;
+  background: #b5caa0;
   color: #fff;
 }
 #aside-content :only-child > .card-widget {
@@ -3758,7 +3758,7 @@ h1.page-title + .tag-cloud-list {
   text-align: center;
 }
 #pagination .page-number.current {
-  background: #00c4b6;
+  background: #caad5f;
   color: var(--white);
 }
 #pagination .pagination-info {
@@ -3837,7 +3837,7 @@ h1.page-title + .tag-cloud-list {
   overflow-wrap: break-word;
 }
 #article-container a {
-  color: #99a9bf;
+  color: #7db9de;
 }
 #article-container a:hover {
   text-decoration: underline;
@@ -4441,7 +4441,7 @@ h1.page-title + .tag-cloud-list {
 #waline-wrap {
   --waline-font-size: 1.1em;
   --waline-theme-color: #b5caa0;
-  --waline-active-color: #ff7242;
+  --waline-active-color: #f4a7b9;
 }
 #waline-wrap .vuser {
   -webkit-transition: all 0.5s;
