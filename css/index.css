@@ -5559,7 +5559,7 @@ blockquote.pullquote.right {
 }
 .read-mode {
   --font-color: #4c4948;
-  --readmode-light-color: #fff;
+  --readmode-light-color: #f5deb3;
   --white: #4c4948;
   --light-grey: #4c4948;
   --gray: #d6dbdf;
