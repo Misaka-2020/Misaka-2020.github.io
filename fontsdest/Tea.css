@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "SentyTEA-basic";
+    src: url("Tea.eot"); /* IE9 */
+    src: url("Tea.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("Tea.woff2") format("woff2"), /* chrome 36+, firefox 39+,iOS 10+, Android 67+ */
+    url("Tea.woff") format("woff"), /* chrome, firefox */
+    url("Tea.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("Tea.svg#SentyTEA-basic") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
