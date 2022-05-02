@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>使用 Fontmin 极致压缩字体文件</title>
+      <link href="/posts/48793.html"/>
+      <url>/posts/48793.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="发现-Error">发现 Error</h2><p>今天看控制台的时候无意间看到有一项报错，发现是 Tag Plugins Plus，使用诗词效果时字体文件调用失败。因为这部分魔改是参考 <a href="https://akilar.top">Akilar</a> 大佬的，所以我也去原教程哪里逛了一逛，发现字体同样没有调用：</p><div  align="center"><img class="inline-img" src="https://res.cloudinary.com/misaka/image/upload/v1651507791/blog_img/2022-05-03_000839_xmbuyl.jpg" style="height:300px"/></div><p>打开控制台也一样看到了 error:</p><img src="https://res.cloudinary.com/misaka/image/upload/v1651508058/blog_img/2022-05-03_001358_hi5jhv.png" width="80%"><p>于是顺藤摸瓜，找到了大佬的<a href="https://github.com/Akilarlxh/akilar-candyassets">静态资源仓库</a>，发现资源介绍里 cdn 用了 jsDeliver 与 UNPKG 两家，但是 css 中调用的 <code>poem.ttf</code> 文件默认源 <code><a href="https://unpkg.zhimg.com/akilar-candyassets@1.0.20/fonts/Poem.ttf">https://unpkg.zhimg.com/akilar-candyassets@1.0.20/fonts/Poem.ttf</a></code> 却并不存在，打开只有 “Not Found” 。（<a href="http://unpkg.zhimg.com">unpkg.zhimg.com</a> 是知乎家的 unpkg 镜像源），而在 unpkg 源站 <a href="http://unpkg.com">unpkg.com</a> 中文件是存在的。但是鉴于这两家 cdn 在国内的访问都不太稳，刚好前几天我也把资源全替换到 Cloudinary 了，所以干脆把字体也托管上去。</p><h2 id="压缩字体解决办法">压缩字体解决办法</h2><p>前面说到可以托管到 Cloudinary ，但是他家的空间和流量都是有限的啊(￣﹃￣)，这一个字体文件就有 5M 大小，刷新一次加载一次我不得破产，而且这么大加载速度也会慢，于是我就寻找一个压缩字体文件的办法。</p><p>🎉🎉🎉</p><p><a href="https://ecomfe.github.io/fontmin">Fontmin</a> ，第一个纯 JavaScript 字体子集化方案。<strong>官方提供</strong> Windows 便携版<a href="https://github.com/ecomfe/fontmin-app/releases/download/v0.2.0/Fontmin-v0.2.0-win64.zip">下载</a>，使用方法很简单，如下图：</p><img src="https://res.cloudinary.com/misaka/image/upload/v1651510295/blog_img/2022-05-03_004521_gyfpvz.jpg" width="80%"><p>可以看到与原文件相比真是小到了极致！</p><img src="https://res.cloudinary.com/misaka/image/upload/v1651510519/blog_img/2022-05-03_005416_xlgyxa.jpg" width="80%"><h2 id="修改-css-调用">修改 css 调用</h2><p>字体压缩好了也就可以放心使用了，这时候只需修改调用源即可。</p><p>查看控制台发现是 <code>tag_plugins.css</code> 这个文件，于是在 css 中搜索 “poem” ，把 <code>src: url(“<a href="https://unpkg.zhimg.com/akilar-candyassets/fonts/Poem.ttf">https://unpkg.zhimg.com/akilar-candyassets/fonts/Poem.ttf</a>”);</code> 这一条替换成自己的字体就好了。</p><p>最后来看一下效果：</p><img src="https://res.cloudinary.com/misaka/image/upload/v1651511046/blog_img/2022-05-03_010337_qh2xsd.jpg" width="80%"><p><strong>非常 Nice</strong> ！</p><hr><img src="https://res.cloudinary.com/misaka/image/upload/v1651511322/blog_img/IMG_0935_iz6yzt.jpg" width="90%">]]></content>
+      
+      
+      <categories>
+          
+          <category> 瞎吉儿优化 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 经验 </tag>
+            
+            <tag> 字体 </tag>
+            
+            <tag> Fontmin </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>吃货日记--五月档</title>
       <link href="/posts/10802.html"/>
       <url>/posts/10802.html</url>
