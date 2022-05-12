@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Misaka の 💭</title>
-  <icon>https://res.cloudinary.com/misaka/image/upload/v1651690731/blog_img/webicon_axbrqw.png</icon>
+  <icon>https://blog.likeme.moe/img/webicon.png</icon>
   
   <link href="https://blog.likeme.moe/atom.xml" rel="self"/>
   
