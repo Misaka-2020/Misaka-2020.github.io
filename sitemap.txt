@@ -1,6 +1,6 @@
 https://blog.likeme.moe/about/index.html
-https://blog.likeme.moe/categories/index.html
 https://blog.likeme.moe/link/index.html
+https://blog.likeme.moe/categories/index.html
 https://blog.likeme.moe/tags/index.html
 https://blog.likeme.moe/posts/42791.html
 https://blog.likeme.moe/posts/10802.html
