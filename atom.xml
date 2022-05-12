@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Misaka の 💭</title>
+  <icon>https://res.cloudinary.com/misaka/image/upload/v1651690731/blog_img/webicon_axbrqw.png</icon>
+  
+  <link href="https://blog.likeme.moe/atom.xml" rel="self"/>
+  
+  <link href="https://blog.likeme.moe/"/>
+  <updated>2022-05-10T16:00:00.000Z</updated>
+  <id>https://blog.likeme.moe/</id>
+  
+  <author>
+    <name>Misaka</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用 Python 写一个简单的私聊机器人</title>
+    <link href="https://blog.likeme.moe/posts/42791.html"/>
+    <id>https://blog.likeme.moe/posts/42791.html</id>
+    <published>2022-05-10T16:00:00.000Z</published>
+    <updated>2022-05-10T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">想拥有一个自己的 Telegram 机器人吗？</summary>
+    
+    
+    
+    <category term="玩机技巧" scheme="https://blog.likeme.moe/categories/%E7%8E%A9%E6%9C%BA%E6%8A%80%E5%B7%A7/"/>
+    
+    
+    <category term="经验" scheme="https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/"/>
+    
+    <category term="Python" scheme="https://blog.likeme.moe/tags/Python/"/>
+    
+    <category term="Telegram" scheme="https://blog.likeme.moe/tags/Telegram/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 Fontmin 极致压缩字体文件</title>
+    <link href="https://blog.likeme.moe/posts/48793.html"/>
+    <id>https://blog.likeme.moe/posts/48793.html</id>
+    <published>2022-05-01T16:00:00.000Z</published>
+    <updated>2022-05-01T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">今天看控制台的时候无意间看到有一项报错，发现是 Tag Plugins Plus，使用诗词效果时字体文件调用失败。</summary>
+    
+    
+    
+    <category term="瞎吉儿优化" scheme="https://blog.likeme.moe/categories/%E7%9E%8E%E5%90%89%E5%84%BF%E4%BC%98%E5%8C%96/"/>
+    
+    
+    <category term="经验" scheme="https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/"/>
+    
+    <category term="Fontmin" scheme="https://blog.likeme.moe/tags/Fontmin/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>吃货日记--五月档</title>
+    <link href="https://blog.likeme.moe/posts/10802.html"/>
+    <id>https://blog.likeme.moe/posts/10802.html</id>
+    <published>2022-04-30T16:00:00.000Z</published>
+    <updated>2022-05-10T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">五月来点什么呢</summary>
+    
+    
+    
+    <category term="今天来点什么呢" scheme="https://blog.likeme.moe/categories/%E4%BB%8A%E5%A4%A9%E6%9D%A5%E7%82%B9%E4%BB%80%E4%B9%88%E5%91%A2/"/>
+    
+    
+    <category term="生活" scheme="https://blog.likeme.moe/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="吃货" scheme="https://blog.likeme.moe/tags/%E5%90%83%E8%B4%A7/"/>
+    
+    <category term="食堂" scheme="https://blog.likeme.moe/tags/%E9%A3%9F%E5%A0%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一键设置好小鹤双拼</title>
+    <link href="https://blog.likeme.moe/posts/43502.html"/>
+    <id>https://blog.likeme.moe/posts/43502.html</id>
+    <published>2022-04-22T16:00:00.000Z</published>
+    <updated>2022-04-22T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">很早就想改用双拼来着，最近看到少数派的文章又加深了我的念头，于是我就去查了查各种双拼方案的异同和优缺点</summary>
+    
+    
+    
+    <category term="玩机技巧" scheme="https://blog.likeme.moe/categories/%E7%8E%A9%E6%9C%BA%E6%8A%80%E5%B7%A7/"/>
+    
+    
+    <category term="经验" scheme="https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/"/>
+    
+    <category term="Windows" scheme="https://blog.likeme.moe/tags/Windows/"/>
+    
+    <category term="双拼" scheme="https://blog.likeme.moe/tags/%E5%8F%8C%E6%8B%BC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>吃货日记--四月档</title>
+    <link href="https://blog.likeme.moe/posts/28163.html"/>
+    <id>https://blog.likeme.moe/posts/28163.html</id>
+    <published>2022-04-21T16:00:00.000Z</published>
+    <updated>2022-04-29T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">四月来点什么呢</summary>
+    
+    
+    
+    <category term="今天来点什么呢" scheme="https://blog.likeme.moe/categories/%E4%BB%8A%E5%A4%A9%E6%9D%A5%E7%82%B9%E4%BB%80%E4%B9%88%E5%91%A2/"/>
+    
+    
+    <category term="生活" scheme="https://blog.likeme.moe/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="吃货" scheme="https://blog.likeme.moe/tags/%E5%90%83%E8%B4%A7/"/>
+    
+    <category term="食堂" scheme="https://blog.likeme.moe/tags/%E9%A3%9F%E5%A0%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不知道写什么就从记录吃开始吧</title>
+    <link href="https://blog.likeme.moe/posts/23251.html"/>
+    <id>https://blog.likeme.moe/posts/23251.html</id>
+    <published>2022-04-20T16:00:00.000Z</published>
+    <updated>2022-04-20T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">我们学校挺多食堂的，虽然每个我都去过，但一般图方便都是去最近的一个，在学校这么久一直吃怎么也吃腻了，而且每次去都会选择困难。。我每天的作息也不太规律，早餐一般是在梦里吃的，所以我想开个档来记录不同食堂不同的特色，也督促自己每天吃一顿早餐( •̀ ω •́ )✧</summary>
+    
+    
+    
+    <category term="今天来点什么呢" scheme="https://blog.likeme.moe/categories/%E4%BB%8A%E5%A4%A9%E6%9D%A5%E7%82%B9%E4%BB%80%E4%B9%88%E5%91%A2/"/>
+    
+    
+    <category term="生活" scheme="https://blog.likeme.moe/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="吃货" scheme="https://blog.likeme.moe/tags/%E5%90%83%E8%B4%A7/"/>
+    
+    <category term="食堂" scheme="https://blog.likeme.moe/tags/%E9%A3%9F%E5%A0%82/"/>
+    
+    <category term="厨艺" scheme="https://blog.likeme.moe/tags/%E5%8E%A8%E8%89%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World！</title>
+    <link href="https://blog.likeme.moe/posts/481.html"/>
+    <id>https://blog.likeme.moe/posts/481.html</id>
+    <published>2022-04-07T16:00:00.000Z</published>
+    <updated>2022-04-07T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">First Blog 🎉🎉🎉 2022 年 4 月 8 日 星期五</summary>
+    
+    
+    
+    <category term="建站纪念" scheme="https://blog.likeme.moe/categories/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5/"/>
+    
+    
+    <category term="建站纪念" scheme="https://blog.likeme.moe/tags/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5/"/>
+    
+  </entry>
+  
+</feed>
