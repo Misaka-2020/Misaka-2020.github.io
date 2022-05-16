@@ -4,7 +4,7 @@
 
 Blog 运用 Github 和 Vercel 双线部署，默认托管于 Vercel
 
-Github Page 已做[重定向](https://blog.likeme.moe)
+Github Page 已做**重定向**
 
 部署流程：
 
