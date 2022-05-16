@@ -14,7 +14,7 @@ Github Page 已做**重定向**
 
   - [x] 本仓库收到推送，触发自动构建并生成[静态页面](https://Misaka-2020.github.io)（已重定向）
 
-  - [x] Vercel 检测到推送，触发自动构建并生成[静态页面](https://likeme.moe)（Blog 地址）
+  - [x] Vercel 检测到推送，触发自动构建并生成[静态页面](https://blog.likeme.moe)（Blog 地址）
 
 - [x] 部署完成
 
