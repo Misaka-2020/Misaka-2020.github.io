@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Misaka の 💭</title>
-  <icon>https://blog.likeme.moe/img/webicon.png</icon>
+  <icon>https://likeme.moe/img/webicon.png</icon>
   
-  <link href="https://blog.likeme.moe/atom.xml" rel="self"/>
+  <link href="https://likeme.moe/atom.xml" rel="self"/>
   
-  <link href="https://blog.likeme.moe/"/>
+  <link href="https://likeme.moe/"/>
   <updated>2022-05-10T16:00:00.000Z</updated>
-  <id>https://blog.likeme.moe/</id>
+  <id>https://likeme.moe/</id>
   
   <author>
     <name>Misaka</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>用 Python 写一个简单的私聊机器人</title>
-    <link href="https://blog.likeme.moe/posts/42791.html"/>
-    <id>https://blog.likeme.moe/posts/42791.html</id>
+    <link href="https://likeme.moe/posts/42791.html"/>
+    <id>https://likeme.moe/posts/42791.html</id>
     <published>2022-05-10T16:00:00.000Z</published>
     <updated>2022-05-10T16:00:00.000Z</updated>
     
@@ -28,21 +28,21 @@
     
     
     
-    <category term="玩机技巧" scheme="https://blog.likeme.moe/categories/%E7%8E%A9%E6%9C%BA%E6%8A%80%E5%B7%A7/"/>
+    <category term="玩机技巧" scheme="https://likeme.moe/categories/%E7%8E%A9%E6%9C%BA%E6%8A%80%E5%B7%A7/"/>
     
     
-    <category term="经验" scheme="https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/"/>
+    <category term="经验" scheme="https://likeme.moe/tags/%E7%BB%8F%E9%AA%8C/"/>
     
-    <category term="Python" scheme="https://blog.likeme.moe/tags/Python/"/>
+    <category term="Python" scheme="https://likeme.moe/tags/Python/"/>
     
-    <category term="Telegram" scheme="https://blog.likeme.moe/tags/Telegram/"/>
+    <category term="Telegram" scheme="https://likeme.moe/tags/Telegram/"/>
     
   </entry>
   
   <entry>
     <title>使用 Fontmin 极致压缩字体文件</title>
-    <link href="https://blog.likeme.moe/posts/48793.html"/>
-    <id>https://blog.likeme.moe/posts/48793.html</id>
+    <link href="https://likeme.moe/posts/48793.html"/>
+    <id>https://likeme.moe/posts/48793.html</id>
     <published>2022-05-01T16:00:00.000Z</published>
     <updated>2022-05-01T16:00:00.000Z</updated>
     
@@ -51,19 +51,19 @@
     
     
     
-    <category term="瞎吉儿优化" scheme="https://blog.likeme.moe/categories/%E7%9E%8E%E5%90%89%E5%84%BF%E4%BC%98%E5%8C%96/"/>
+    <category term="瞎吉儿优化" scheme="https://likeme.moe/categories/%E7%9E%8E%E5%90%89%E5%84%BF%E4%BC%98%E5%8C%96/"/>
     
     
-    <category term="经验" scheme="https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/"/>
+    <category term="经验" scheme="https://likeme.moe/tags/%E7%BB%8F%E9%AA%8C/"/>
     
-    <category term="Fontmin" scheme="https://blog.likeme.moe/tags/Fontmin/"/>
+    <category term="Fontmin" scheme="https://likeme.moe/tags/Fontmin/"/>
     
   </entry>
   
   <entry>
     <title>吃货日记--五月档</title>
-    <link href="https://blog.likeme.moe/posts/10802.html"/>
-    <id>https://blog.likeme.moe/posts/10802.html</id>
+    <link href="https://likeme.moe/posts/10802.html"/>
+    <id>https://likeme.moe/posts/10802.html</id>
     <published>2022-04-30T16:00:00.000Z</published>
     <updated>2022-05-13T16:00:00.000Z</updated>
     
@@ -72,21 +72,21 @@
     
     
     
-    <category term="今天来点什么呢" scheme="https://blog.likeme.moe/categories/%E4%BB%8A%E5%A4%A9%E6%9D%A5%E7%82%B9%E4%BB%80%E4%B9%88%E5%91%A2/"/>
+    <category term="今天来点什么呢" scheme="https://likeme.moe/categories/%E4%BB%8A%E5%A4%A9%E6%9D%A5%E7%82%B9%E4%BB%80%E4%B9%88%E5%91%A2/"/>
     
     
-    <category term="生活" scheme="https://blog.likeme.moe/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://likeme.moe/tags/%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="吃货" scheme="https://blog.likeme.moe/tags/%E5%90%83%E8%B4%A7/"/>
+    <category term="吃货" scheme="https://likeme.moe/tags/%E5%90%83%E8%B4%A7/"/>
     
-    <category term="食堂" scheme="https://blog.likeme.moe/tags/%E9%A3%9F%E5%A0%82/"/>
+    <category term="食堂" scheme="https://likeme.moe/tags/%E9%A3%9F%E5%A0%82/"/>
     
   </entry>
   
   <entry>
     <title>一键设置好小鹤双拼</title>
-    <link href="https://blog.likeme.moe/posts/43502.html"/>
-    <id>https://blog.likeme.moe/posts/43502.html</id>
+    <link href="https://likeme.moe/posts/43502.html"/>
+    <id>https://likeme.moe/posts/43502.html</id>
     <published>2022-04-22T16:00:00.000Z</published>
     <updated>2022-04-22T16:00:00.000Z</updated>
     
@@ -95,21 +95,21 @@
     
     
     
-    <category term="玩机技巧" scheme="https://blog.likeme.moe/categories/%E7%8E%A9%E6%9C%BA%E6%8A%80%E5%B7%A7/"/>
+    <category term="玩机技巧" scheme="https://likeme.moe/categories/%E7%8E%A9%E6%9C%BA%E6%8A%80%E5%B7%A7/"/>
     
     
-    <category term="经验" scheme="https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/"/>
+    <category term="经验" scheme="https://likeme.moe/tags/%E7%BB%8F%E9%AA%8C/"/>
     
-    <category term="Windows" scheme="https://blog.likeme.moe/tags/Windows/"/>
+    <category term="Windows" scheme="https://likeme.moe/tags/Windows/"/>
     
-    <category term="双拼" scheme="https://blog.likeme.moe/tags/%E5%8F%8C%E6%8B%BC/"/>
+    <category term="双拼" scheme="https://likeme.moe/tags/%E5%8F%8C%E6%8B%BC/"/>
     
   </entry>
   
   <entry>
     <title>吃货日记--四月档</title>
-    <link href="https://blog.likeme.moe/posts/28163.html"/>
-    <id>https://blog.likeme.moe/posts/28163.html</id>
+    <link href="https://likeme.moe/posts/28163.html"/>
+    <id>https://likeme.moe/posts/28163.html</id>
     <published>2022-04-21T16:00:00.000Z</published>
     <updated>2022-04-29T16:00:00.000Z</updated>
     
@@ -118,21 +118,21 @@
     
     
     
-    <category term="今天来点什么呢" scheme="https://blog.likeme.moe/categories/%E4%BB%8A%E5%A4%A9%E6%9D%A5%E7%82%B9%E4%BB%80%E4%B9%88%E5%91%A2/"/>
+    <category term="今天来点什么呢" scheme="https://likeme.moe/categories/%E4%BB%8A%E5%A4%A9%E6%9D%A5%E7%82%B9%E4%BB%80%E4%B9%88%E5%91%A2/"/>
     
     
-    <category term="生活" scheme="https://blog.likeme.moe/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://likeme.moe/tags/%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="吃货" scheme="https://blog.likeme.moe/tags/%E5%90%83%E8%B4%A7/"/>
+    <category term="吃货" scheme="https://likeme.moe/tags/%E5%90%83%E8%B4%A7/"/>
     
-    <category term="食堂" scheme="https://blog.likeme.moe/tags/%E9%A3%9F%E5%A0%82/"/>
+    <category term="食堂" scheme="https://likeme.moe/tags/%E9%A3%9F%E5%A0%82/"/>
     
   </entry>
   
   <entry>
     <title>不知道写什么就从记录吃开始吧</title>
-    <link href="https://blog.likeme.moe/posts/23251.html"/>
-    <id>https://blog.likeme.moe/posts/23251.html</id>
+    <link href="https://likeme.moe/posts/23251.html"/>
+    <id>https://likeme.moe/posts/23251.html</id>
     <published>2022-04-20T16:00:00.000Z</published>
     <updated>2022-04-20T16:00:00.000Z</updated>
     
@@ -141,23 +141,23 @@
     
     
     
-    <category term="今天来点什么呢" scheme="https://blog.likeme.moe/categories/%E4%BB%8A%E5%A4%A9%E6%9D%A5%E7%82%B9%E4%BB%80%E4%B9%88%E5%91%A2/"/>
+    <category term="今天来点什么呢" scheme="https://likeme.moe/categories/%E4%BB%8A%E5%A4%A9%E6%9D%A5%E7%82%B9%E4%BB%80%E4%B9%88%E5%91%A2/"/>
     
     
-    <category term="生活" scheme="https://blog.likeme.moe/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://likeme.moe/tags/%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="吃货" scheme="https://blog.likeme.moe/tags/%E5%90%83%E8%B4%A7/"/>
+    <category term="吃货" scheme="https://likeme.moe/tags/%E5%90%83%E8%B4%A7/"/>
     
-    <category term="食堂" scheme="https://blog.likeme.moe/tags/%E9%A3%9F%E5%A0%82/"/>
+    <category term="食堂" scheme="https://likeme.moe/tags/%E9%A3%9F%E5%A0%82/"/>
     
-    <category term="厨艺" scheme="https://blog.likeme.moe/tags/%E5%8E%A8%E8%89%BA/"/>
+    <category term="厨艺" scheme="https://likeme.moe/tags/%E5%8E%A8%E8%89%BA/"/>
     
   </entry>
   
   <entry>
     <title>Hello World！</title>
-    <link href="https://blog.likeme.moe/posts/481.html"/>
-    <id>https://blog.likeme.moe/posts/481.html</id>
+    <link href="https://likeme.moe/posts/481.html"/>
+    <id>https://likeme.moe/posts/481.html</id>
     <published>2022-04-07T16:00:00.000Z</published>
     <updated>2022-04-07T16:00:00.000Z</updated>
     
@@ -166,10 +166,10 @@
     
     
     
-    <category term="建站纪念" scheme="https://blog.likeme.moe/categories/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5/"/>
+    <category term="建站纪念" scheme="https://likeme.moe/categories/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5/"/>
     
     
-    <category term="建站纪念" scheme="https://blog.likeme.moe/tags/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5/"/>
+    <category term="建站纪念" scheme="https://likeme.moe/tags/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5/"/>
     
   </entry>
   
