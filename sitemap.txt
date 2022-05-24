@@ -1,6 +1,6 @@
 https://blog.likeme.moe/manifest.json
-https://blog.likeme.moe/categories/
 https://blog.likeme.moe/about/
+https://blog.likeme.moe/categories/
 https://blog.likeme.moe/link/
 https://blog.likeme.moe/tags/
 https://blog.likeme.moe/img/pwa/manifest.json
@@ -15,12 +15,12 @@ https://blog.likeme.moe/
 https://blog.likeme.moe/tags/%E7%94%9F%E6%B4%BB/
 https://blog.likeme.moe/tags/%E5%90%83%E8%B4%A7/
 https://blog.likeme.moe/tags/%E9%A3%9F%E5%A0%82/
-https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/
-https://blog.likeme.moe/tags/Python/
-https://blog.likeme.moe/tags/Telegram/
 https://blog.likeme.moe/tags/%E5%8E%A8%E8%89%BA/
 https://blog.likeme.moe/tags/Windows/
+https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/
 https://blog.likeme.moe/tags/%E5%8F%8C%E6%8B%BC/
+https://blog.likeme.moe/tags/Python/
+https://blog.likeme.moe/tags/Telegram/
 https://blog.likeme.moe/tags/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5/
 https://blog.likeme.moe/tags/Fontmin/
 https://blog.likeme.moe/categories/%E4%BB%8A%E5%A4%A9%E6%9D%A5%E7%82%B9%E4%BB%80%E4%B9%88%E5%91%A2/
