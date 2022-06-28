@@ -11,24 +11,6 @@
   </url>
   
   <url>
-    <loc>https://blog.likeme.moe/link/</loc>
-    
-    <lastmod>2022-06-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.likeme.moe/tags/</loc>
-    
-    <lastmod>2022-06-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.likeme.moe/about/</loc>
     
     <lastmod>2022-06-28</lastmod>
@@ -39,6 +21,24 @@
   
   <url>
     <loc>https://blog.likeme.moe/categories/</loc>
+    
+    <lastmod>2022-06-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.likeme.moe/link/</loc>
+    
+    <lastmod>2022-06-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.likeme.moe/tags/</loc>
     
     <lastmod>2022-06-28</lastmod>
     
