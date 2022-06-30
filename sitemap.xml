@@ -11,25 +11,16 @@
   </url>
   
   <url>
-    <loc>https://blog.likeme.moe/about/</loc>
-    
-    <lastmod>2022-06-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.likeme.moe/categories/</loc>
-    
-    <lastmod>2022-06-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.likeme.moe/link/</loc>
+    
+    <lastmod>2022-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.likeme.moe/img/pwa/manifest.json</loc>
     
     <lastmod>2022-06-30</lastmod>
     
@@ -47,7 +38,16 @@
   </url>
   
   <url>
-    <loc>https://blog.likeme.moe/img/pwa/manifest.json</loc>
+    <loc>https://blog.likeme.moe/about/</loc>
+    
+    <lastmod>2022-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.likeme.moe/categories/</loc>
     
     <lastmod>2022-06-30</lastmod>
     
@@ -176,6 +176,13 @@
   </url>
   
   <url>
+    <loc>https://blog.likeme.moe/tags/%E5%8E%A8%E8%89%BA/</loc>
+    <lastmod>2022-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/</loc>
     <lastmod>2022-06-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -191,13 +198,6 @@
   
   <url>
     <loc>https://blog.likeme.moe/tags/Telegram/</loc>
-    <lastmod>2022-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.likeme.moe/tags/%E5%8E%A8%E8%89%BA/</loc>
     <lastmod>2022-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
