@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.likeme.moe/posts/62339.html</loc>
+    
+    <lastmod>2022-07-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.likeme.moe/manifest.json</loc>
     
     <lastmod>2022-07-01</lastmod>
@@ -246,6 +255,20 @@
   </url>
   
   <url>
+    <loc>https://blog.likeme.moe/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2022-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.likeme.moe/tags/%E7%8C%AB%E5%92%AA%E5%A4%A7%E6%88%98%E4%BA%89/</loc>
+    <lastmod>2022-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.likeme.moe/tags/Fontmin/</loc>
     <lastmod>2022-07-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -277,6 +300,13 @@
   
   <url>
     <loc>https://blog.likeme.moe/categories/%E5%AD%A6%E4%B9%A0%E4%BD%BF%E6%88%91%E5%BF%AB%E4%B9%90/</loc>
+    <lastmod>2022-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.likeme.moe/categories/%E9%98%BF%E4%BC%9F%E5%8F%88%E5%9C%A8%E6%89%93%E7%94%B5%E5%8A%A8/</loc>
     <lastmod>2022-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
