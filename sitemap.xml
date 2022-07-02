@@ -20,7 +20,16 @@
   </url>
   
   <url>
-    <loc>https://blog.likeme.moe/categories/</loc>
+    <loc>https://blog.likeme.moe/link/</loc>
+    
+    <lastmod>2022-07-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.likeme.moe/tags/</loc>
     
     <lastmod>2022-07-02</lastmod>
     
@@ -38,16 +47,7 @@
   </url>
   
   <url>
-    <loc>https://blog.likeme.moe/link/</loc>
-    
-    <lastmod>2022-07-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.likeme.moe/tags/</loc>
+    <loc>https://blog.likeme.moe/categories/</loc>
     
     <lastmod>2022-07-02</lastmod>
     
