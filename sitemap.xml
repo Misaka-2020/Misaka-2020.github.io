@@ -20,25 +20,7 @@
   </url>
   
   <url>
-    <loc>https://blog.likeme.moe/about/</loc>
-    
-    <lastmod>2022-07-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.likeme.moe/artitalk/</loc>
-    
-    <lastmod>2022-07-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.likeme.moe/categories/</loc>
+    <loc>https://blog.likeme.moe/tags/</loc>
     
     <lastmod>2022-07-03</lastmod>
     
@@ -56,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://blog.likeme.moe/tags/</loc>
+    <loc>https://blog.likeme.moe/img/pwa/manifest.json</loc>
     
     <lastmod>2022-07-03</lastmod>
     
@@ -65,7 +47,25 @@
   </url>
   
   <url>
-    <loc>https://blog.likeme.moe/img/pwa/manifest.json</loc>
+    <loc>https://blog.likeme.moe/artitalk/</loc>
+    
+    <lastmod>2022-07-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.likeme.moe/about/</loc>
+    
+    <lastmod>2022-07-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.likeme.moe/categories/</loc>
     
     <lastmod>2022-07-03</lastmod>
     
@@ -229,13 +229,6 @@
   </url>
   
   <url>
-    <loc>https://blog.likeme.moe/tags/%E5%8E%A8%E8%89%BA/</loc>
-    <lastmod>2022-07-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.likeme.moe/tags/Windows/</loc>
     <lastmod>2022-07-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -244,6 +237,13 @@
   
   <url>
     <loc>https://blog.likeme.moe/tags/%E5%8F%8C%E6%8B%BC/</loc>
+    <lastmod>2022-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.likeme.moe/tags/%E5%8E%A8%E8%89%BA/</loc>
     <lastmod>2022-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
