@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://blog.likeme.moe/tags/</loc>
-    
-    <lastmod>2022-07-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.likeme.moe/manifest.json</loc>
     
     <lastmod>2022-07-04</lastmod>
@@ -57,6 +48,15 @@
   
   <url>
     <loc>https://blog.likeme.moe/link/</loc>
+    
+    <lastmod>2022-07-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.likeme.moe/tags/</loc>
     
     <lastmod>2022-07-04</lastmod>
     
