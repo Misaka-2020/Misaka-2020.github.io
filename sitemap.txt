@@ -1,5 +1,4 @@
 https://blog.likeme.moe/posts/62339.html
-https://blog.likeme.moe/manifest.json
 https://blog.likeme.moe/link/
 https://blog.likeme.moe/tags/
 https://blog.likeme.moe/img/pwa/manifest.json
