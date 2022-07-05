@@ -40,6 +40,29 @@
   </entry>
   
   <entry>
+    <title>Workbox 实现 PWA 的体验优化</title>
+    <link href="https://blog.likeme.moe/posts/11642.html"/>
+    <id>https://blog.likeme.moe/posts/11642.html</id>
+    <published>2022-07-04T16:00:00.000Z</published>
+    <updated>2022-07-04T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">gulp &amp; workbox 不影响离线体验的前提下隐藏 index.html</summary>
+    
+    
+    
+    <category term="瞎吉儿优化" scheme="https://blog.likeme.moe/categories/%E7%9E%8E%E5%90%89%E5%84%BF%E4%BC%98%E5%8C%96/"/>
+    
+    
+    <category term="经验" scheme="https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/"/>
+    
+    <category term="PWA" scheme="https://blog.likeme.moe/tags/PWA/"/>
+    
+    <category term="workbox" scheme="https://blog.likeme.moe/tags/workbox/"/>
+    
+  </entry>
+  
+  <entry>
     <title>日语学习--打卡档</title>
     <link href="https://blog.likeme.moe/posts/47697.html"/>
     <id>https://blog.likeme.moe/posts/47697.html</id>
@@ -77,9 +100,9 @@
     <category term="玩机技巧" scheme="https://blog.likeme.moe/categories/%E7%8E%A9%E6%9C%BA%E6%8A%80%E5%B7%A7/"/>
     
     
-    <category term="经验" scheme="https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/"/>
-    
     <category term="Windows" scheme="https://blog.likeme.moe/tags/Windows/"/>
+    
+    <category term="经验" scheme="https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/"/>
     
   </entry>
   
@@ -98,9 +121,9 @@
     <category term="玩机技巧" scheme="https://blog.likeme.moe/categories/%E7%8E%A9%E6%9C%BA%E6%8A%80%E5%B7%A7/"/>
     
     
-    <category term="经验" scheme="https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/"/>
-    
     <category term="Windows" scheme="https://blog.likeme.moe/tags/Windows/"/>
+    
+    <category term="经验" scheme="https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/"/>
     
   </entry>
   
@@ -116,14 +139,14 @@
     
     
     
-    <category term="玩机技巧" scheme="https://blog.likeme.moe/categories/%E7%8E%A9%E6%9C%BA%E6%8A%80%E5%B7%A7/"/>
+    <category term="学习使我快乐" scheme="https://blog.likeme.moe/categories/%E5%AD%A6%E4%B9%A0%E4%BD%BF%E6%88%91%E5%BF%AB%E4%B9%90/"/>
     
-    
-    <category term="经验" scheme="https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/"/>
     
     <category term="Python" scheme="https://blog.likeme.moe/tags/Python/"/>
     
     <category term="Telegram" scheme="https://blog.likeme.moe/tags/Telegram/"/>
+    
+    <category term="Bot" scheme="https://blog.likeme.moe/tags/Bot/"/>
     
   </entry>
   
@@ -186,9 +209,9 @@
     <category term="玩机技巧" scheme="https://blog.likeme.moe/categories/%E7%8E%A9%E6%9C%BA%E6%8A%80%E5%B7%A7/"/>
     
     
-    <category term="经验" scheme="https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/"/>
-    
     <category term="Windows" scheme="https://blog.likeme.moe/tags/Windows/"/>
+    
+    <category term="经验" scheme="https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/"/>
     
     <category term="双拼" scheme="https://blog.likeme.moe/tags/%E5%8F%8C%E6%8B%BC/"/>
     

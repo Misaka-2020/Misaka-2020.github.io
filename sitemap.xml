@@ -65,6 +65,15 @@
   </url>
   
   <url>
+    <loc>https://blog.likeme.moe/posts/11642.html</loc>
+    
+    <lastmod>2022-07-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.likeme.moe/posts/47697.html</loc>
     
     <lastmod>2022-07-03</lastmod>
@@ -199,13 +208,6 @@
   </url>
   
   <url>
-    <loc>https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/</loc>
-    <lastmod>2022-07-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.likeme.moe/tags/Python/</loc>
     <lastmod>2022-07-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -220,6 +222,13 @@
   </url>
   
   <url>
+    <loc>https://blog.likeme.moe/tags/Bot/</loc>
+    <lastmod>2022-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.likeme.moe/tags/%E5%8E%A8%E8%89%BA/</loc>
     <lastmod>2022-07-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -228,6 +237,13 @@
   
   <url>
     <loc>https://blog.likeme.moe/tags/Windows/</loc>
+    <lastmod>2022-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.likeme.moe/tags/%E7%BB%8F%E9%AA%8C/</loc>
     <lastmod>2022-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -269,6 +285,20 @@
   </url>
   
   <url>
+    <loc>https://blog.likeme.moe/tags/PWA/</loc>
+    <lastmod>2022-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.likeme.moe/tags/workbox/</loc>
+    <lastmod>2022-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.likeme.moe/tags/Fontmin/</loc>
     <lastmod>2022-07-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -292,6 +322,13 @@
   </url>
   
   <url>
+    <loc>https://blog.likeme.moe/categories/%E5%AD%A6%E4%B9%A0%E4%BD%BF%E6%88%91%E5%BF%AB%E4%B9%90/</loc>
+    <lastmod>2022-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.likeme.moe/categories/%E7%8E%A9%E6%9C%BA%E6%8A%80%E5%B7%A7/</loc>
     <lastmod>2022-07-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -300,13 +337,6 @@
   
   <url>
     <loc>https://blog.likeme.moe/categories/%E5%BB%BA%E7%AB%99%E7%BA%AA%E5%BF%B5/</loc>
-    <lastmod>2022-07-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.likeme.moe/categories/%E5%AD%A6%E4%B9%A0%E4%BD%BF%E6%88%91%E5%BF%AB%E4%B9%90/</loc>
     <lastmod>2022-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
