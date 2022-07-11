@@ -11,33 +11,6 @@
   </url>
   
   <url>
-    <loc>https://blog.likeme.moe/about/</loc>
-    
-    <lastmod>2022-07-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.likeme.moe/artitalk/</loc>
-    
-    <lastmod>2022-07-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.likeme.moe/categories/</loc>
-    
-    <lastmod>2022-07-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.likeme.moe/link/</loc>
     
     <lastmod>2022-07-11</lastmod>
@@ -66,6 +39,33 @@
   
   <url>
     <loc>https://blog.likeme.moe/img/pwa/manifest.json</loc>
+    
+    <lastmod>2022-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.likeme.moe/about/</loc>
+    
+    <lastmod>2022-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.likeme.moe/artitalk/</loc>
+    
+    <lastmod>2022-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.likeme.moe/categories/</loc>
     
     <lastmod>2022-07-11</lastmod>
     
